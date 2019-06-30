@@ -1,0 +1,26 @@
+.hero.is-info.is-large{
+    background-repeat: no-repeat;
+    background: url("../img/bd.jpg") center;
+    background-size: cover;
+}
+
+.text-header {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+
+p{
+    font-family: 'Noto Sans HK', sans-serif;
+}
+
+#titulo {
+    font-size: 4rem;
+    color: black;
+    font-family: 'PT Sans', sans-serif;
+
+}
+
+.columns .column{
+    align-content: space-between;
+}
